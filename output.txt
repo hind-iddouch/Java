@@ -1,0 +1,9 @@
+here is your report for the given transaction file
+total income :41300.0
+total expenses :0.0
+Net Savings  :41300.0
+here is the expenses per category : 
+ 	 car: 1000.0
+ 	 health: 200.0
+ 	 clothes: 400.0
+ 	 home: 16000.0
